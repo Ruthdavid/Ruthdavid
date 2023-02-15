@@ -1,9 +1,9 @@
-### Iam Ruth Nduku David a programmer and a network technician and I am ever willing to work in an organization that will offer me dynamic opportunities and challenges that will enable me to utilize effectively, the skills and knowledge I have acquired in learning and professional work experience in order to competently deliver in my working environment in line with the organization goals and objectives as well as exploiting fully my professional skills and abilities to meet the company's set goals and objectives and further my career development.
+### Iam Nduku David a programmer and a network technician and I am ever willing to work in an organization that will offer me dynamic opportunities and challenges that will enable me to utilize effectively, the skills and knowledge I have acquired in learning and professional work experience in order to competently deliver in my working environment in line with the organization goals and objectives as well as exploiting fully my professional skills and abilities to meet the company's set goals and objectives and further my career development.
 
   👋
 
 <!--
-**Ruthdavid/Ruthdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ndukudavid/Ndukudavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
